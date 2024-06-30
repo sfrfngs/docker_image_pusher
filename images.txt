@@ -1,2 +1,3 @@
 nginx
 iwebsec/iwebsec
+mcc0624/ser:1.8
